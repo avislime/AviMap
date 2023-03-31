@@ -1,1 +1,1 @@
-test
+File repository for my avatar world on VRChat for use with the string and image loaders. This is probably of no use to the general public.
