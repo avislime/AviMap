@@ -1,4 +1,18 @@
 <PanelData>
-<KyliinRedux>fuck. shit</KyliinRedux>
-<iDog>FUCK!!</iDog>
+	<KyliinRedux>
+		<name>Kyliin Redux</name>
+		<text>fuck. shit</text>
+		<price>35 USD</price>
+		<gumroad>TBD</gumroad>
+		<kofi>TBD</kofi>
+	</KyliinRedux>
+	<iDog>
+		<name>iDog</name>
+		<text>ass</text>
+		<price>Free</price>
+		<gumroad>TBD</gumroad>
+		<kofi>TBD</kofi>
+	</iDog>
 </PanelData>
+<UserData>
+</UserData>
