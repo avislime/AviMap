@@ -1,17 +1,17 @@
 <PanelData>
 	<KyliinRedux>
-		<name>Kyliin Redux</name>
-		<text>fuck. shit</text>
-		<price>35 USD</price>
-		<gumroad>TBD</gumroad>
-		<kofi>TBD</kofi>
+		<topbox>Kyliin Redux
+		35.00 USD
+		Quintessential kyliin packed w nonsense</topbox>
+		<bottombox>gumroad
+		kofi</bottombox>
 	</KyliinRedux>
 	<iDog>
-		<name>iDog</name>
-		<text>ass</text>
-		<price>Free</price>
-		<gumroad>TBD</gumroad>
-		<kofi>TBD</kofi>
+		<topbox>Anthro iDog
+		Free
+		insert something here</topbox>
+		<bottombox>gumroad
+		kofi</bottombox>
 	</iDog>
 </PanelData>
 <UserData>
