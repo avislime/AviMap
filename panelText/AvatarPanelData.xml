@@ -1,23 +1,78 @@
-<PanelData>
-	<Default>
-<topbox>Changelog 4/1/2023:
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <PanelData>
+    <Default>
+      <topbox>Changelog 4/1/2023:
 Got bitches.</topbox>
-<bottombox>sick</bottombox>
-	</Default>
-	<KyliinRedux>
-<topbox>Kyliin Redux
+      <bottombox>sick</bottombox>
+    </Default>
+    <KyliinRedux>
+      <topbox>Kyliin Redux
 35.00 USD
-Quintessential kyliin packed w nonsense</topbox>
-<bottombox>gumroad
+You found the secret creature! This isn't done yet.</topbox>
+      <bottombox>https://avislime.gumroad.com/l/kyliin
 kofi</bottombox>
-	</KyliinRedux>
-	<iDog>
-<topbox>Anthro iDog
+    </KyliinRedux>
+    <Bunbie>
+      <topbox>Bunbie
+10.00 USD</topbox>
+      <bottombox>https://avislime.gumroad.com/l/bunbie</bottombox>
+    </Bunbie>
+    <iDog>
+      <topbox>Anthro iDog
+Free
+Supports both Digitigrade and Plantigrade on quest!</topbox>
+      <bottombox>https://avislime.gumroad.com/l/idog
+kofi</bottombox>
+    </iDog>
+    <Spibben>
+      <topbox>Spibben
+Free</topbox>
+      <bottombox>https://avislime.gumroad.com/l/JWrTP
+kofi</bottombox>
+    </Spibben>
+    <ChitioV2>
+      <topbox>Anthro iDog
 Free
 insert something here</topbox>
-<bottombox>gumroad
+      <bottombox>gumroad
 kofi</bottombox>
-	</iDog>
-</PanelData>
-<UserData>
-</UserData>
+    </ChitioV2>
+    <Snail>
+      <topbox>Anthro iDog
+Free
+insert something here</topbox>
+      <bottombox>gumroad
+kofi</bottombox>
+    </Snail>
+    <KyliinV2>
+      <topbox>Anthro iDog
+Free
+insert something here</topbox>
+      <bottombox>gumroad
+kofi</bottombox>
+    </KyliinV2>
+    <WormV2>
+      <topbox>Anthro iDog
+Free
+insert something here</topbox>
+      <bottombox>gumroad
+kofi</bottombox>
+    </WormV2>
+    <Atamo>
+      <topbox>Anthro iDog
+Free
+insert something here</topbox>
+      <bottombox>gumroad
+kofi</bottombox>
+    </Atamo>
+    <Ezson>
+      <topbox>Anthro iDog
+Free
+insert something here</topbox>
+      <bottombox>gumroad
+kofi</bottombox>
+    </Ezson>
+  </PanelData>
+  <UserData></UserData>
+</root>
