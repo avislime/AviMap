@@ -2,16 +2,19 @@
 <root>
   <PanelData>
     <Default>
-      <topbox>Changelog 5/31/2023:
-New Sylva themed kyliin available.</topbox>
+      <topbox>Changelog 4/12/2024:
+
+All avatars now free
+Kyliin Redux 1.5 released
+New Plushy Themed Kyliin added</topbox>
       <bottombox>sick</bottombox>
     </Default>
     <KyliinRedux>
       <topbox>Kyliin Redux
-30.00 USD
+Free
 SDK3 + Physbones
 ...and something new.
-It's out now! :]</topbox>
+1.5 out now! Includes 7 outfits, 13 included textures, and way too much effort.</topbox>
       <bottombox>https://gum.co/l/kyliin</bottombox>
     </KyliinRedux>
     <Bunbie>
